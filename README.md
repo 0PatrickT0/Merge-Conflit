@@ -1,4 +1,4 @@
-# Merge-Conflit
+# Amazing Merge-Conflit
 # Et ça fait bim, bam, boum
 # Ça fait pshht et ça fait vroum
 # Ça fait bim, bam, boum
